@@ -7,8 +7,8 @@ Perkenalkan, saya merupakan seseorang yang sangat antusias dengan dunia teknolog
 Saya mempunyai beberapa website, tapi readme github saya ini adalah paling bagus menurut saya<br></p>
 <h3>☕ Temukan saya di media sosial</h3>
 <ul>
-  <li>Instagram : <a href="https://www.instagram.com/muhaimin.muhyi/">@muhaimin.muhyi</a></li>
-  <li>LinkedIn : <a href="www.linkedin.com/in/muhaiminmuhyi">Muhaimin Muhyi</a></li>
+  <li>Instagram : <a target="_blank" href="https://www.instagram.com/muhaimin.muhyi/">@muhaimin.muhyi</a></li>
+  <li>LinkedIn : <a target="_blank" href="www.linkedin.com/in/muhaiminmuhyi">Muhaimin Muhyi</a></li>
 </ul>
 <p dir="auto">
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c93120a8c79e8065f658adb1cbf8d08500daf68b98561b3813509d62dac6c13f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4875676f2d3030303f266c6f676f3d4875676f"><img src="https://camo.githubusercontent.com/c93120a8c79e8065f658adb1cbf8d08500daf68b98561b3813509d62dac6c13f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4875676f2d3030303f266c6f676f3d4875676f" alt="Python" data-canonical-src="https://img.shields.io/badge/-Hugo-000?&amp;logo=Hugo" style="max-width: 100%;"></a>
