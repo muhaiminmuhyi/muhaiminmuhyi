@@ -1,4 +1,4 @@
-<h2><strong>Hai, Saya Muhaimin Muhyi, seorang Backend Developer 🚀 dari Indonesia.</strong</h2>
+<h2><strong>Hai, Saya Muhaimin Muhyi, seorang Backend Developer 🚀 dari Indonesia.</strong></h2>
 
 ---
 
