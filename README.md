@@ -1,6 +1,5 @@
 <h2><strong>Hai, Saya Muhaimin Muhyi, seorang Backend Developer 🚀 dari Indonesia.</strong></h2>
 
----
 
 <p dir="auto">Holaa 👋<br>
 Perkenalkan, saya merupakan seseorang yang sangat antusias dengan dunia teknologi informasi.<br>
